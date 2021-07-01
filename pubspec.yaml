@@ -1,12 +1,13 @@
 name: icomoon
 description: A sample command-line application.
 version: 1.0.0
-# homepage: https://www.example.com
+repository: https://github.com/Lafannn/icons_utils
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
+  path: ^1.8.0
   args: ^2.1.1
   yaml: ^3.1.0
   dio: ^4.0.0
