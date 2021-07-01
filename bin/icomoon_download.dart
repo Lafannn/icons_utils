@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:icomoon/configs/pubspec_config.dart';
-import 'package:icomoon/icomoon.dart';
+import 'package:icons_utils/configs/pubspec_config.dart';
+import 'package:icons_utils/icomoon.dart';
 import 'package:args/args.dart' as args;
 
 void main(List<String> arguments) async {

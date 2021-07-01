@@ -1,7 +1,5 @@
-import 'dart:typed_data';
-
 import 'package:dio/dio.dart';
-import 'package:icomoon/models/selection.dart';
+import 'package:icons_utils/models/selection.dart';
 
 class IcomoonClient {
   final _dio = Dio(BaseOptions(baseUrl: 'https://i.icomoon.io/public/'));

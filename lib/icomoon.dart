@@ -1,5 +1,5 @@
-import 'package:icomoon/api/icomoon_client.dart';
-import 'package:icomoon/project.dart';
+import 'package:icons_utils/api/icomoon_client.dart';
+import 'package:icons_utils/project.dart';
 
 import 'models/font.dart';
 import 'templates/icons_template.dart';

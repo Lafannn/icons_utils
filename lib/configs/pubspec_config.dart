@@ -1,5 +1,5 @@
-import 'package:icomoon/models/font.dart';
-import 'package:icomoon/project.dart';
+import 'package:icons_utils/models/font.dart';
+import 'package:icons_utils/project.dart';
 import 'package:yaml/yaml.dart' as yaml;
 
 class PubspecConfig {

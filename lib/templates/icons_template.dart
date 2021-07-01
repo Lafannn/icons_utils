@@ -1,4 +1,4 @@
-import 'package:icomoon/models/icon.dart';
+import 'package:icons_utils/models/icon.dart';
 
 class IconsTemplate {
   IconsTemplate._();
